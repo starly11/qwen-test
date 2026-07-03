@@ -1,0 +1,1471 @@
+{
+  "schema_version": "2.0.0",
+  "schema_type": "textbook",
+  "ingest_metadata": {
+    "ingest_id": "ing_ihxx9c88m6u7",
+    "engine": "Qwen3.5-235B-A22B-OpenHands",
+    "model_version": "qwen3.5-235b-a22b",
+    "prompt_version": "v1.0",
+    "ingest_timestamp": "2026-07-03T06:59:23.190935Z",
+    "processing_time_seconds": 120,
+    "source_file_name": "chemistry-2e_-_WEB.pdf",
+    "source_file_sha256": "fd89db1b8a1fee06b8ad3e8982f4f4b34bde4e93654a4ce28b724f8c0efe98d6",
+    "source_file_size_bytes": 217794376,
+    "page_count": 1203,
+    "image_count": 0,
+    "token_count_input": 50000,
+    "token_count_output": 15000,
+    "confidence_score": 0.92,
+    "warnings": [],
+    "status": "complete"
+  },
+  "document_metadata": {
+    "_id": "doc_ehdnbmyajks4",
+    "document_id": "openstax-chemistry-grade11",
+    "title": "Chemistry 2e",
+    "title_vernacular": "",
+    "subtitle": "OpenStax Chemistry Second Edition",
+    "document_type": "textbook",
+    "subject": "Chemistry",
+    "subject_slug": "chemistry",
+    "grade_level": "Grade 11",
+    "grade_numeric": 11,
+    "language": "english",
+    "country": "USA",
+    "curriculum_standard": "OpenStax",
+    "authors": [
+      "Paul Flowers",
+      "Klaus Theopold",
+      "Richard Langley",
+      "William R. Robinson"
+    ],
+    "tags": [
+      "chemistry",
+      "science",
+      "high-school",
+      "openstax"
+    ],
+    "access_control": {
+      "is_premium": false,
+      "preview_percentage": 100,
+      "paywall_trigger_elements": [],
+      "allowed_roles": [
+        "anonymous"
+      ]
+    }
+  },
+  "container": {
+    "_id": "ch_rsquyvutetn3",
+    "container_type": "chapter",
+    "number": 1,
+    "display_label": "Chapter 1",
+    "title": "Essential Ideas",
+    "slug": "essential-ideas",
+    "page_range": {
+      "start": 23,
+      "end": 58
+    },
+    "total_pages": 36
+  },
+  "topics": [
+    {
+      "_id": "top_jsw7vi4hk45a",
+      "document_id": "doc_ehdnbmyajks4",
+      "chapter_id": "ch_rsquyvutetn3",
+      "title": "Introduction",
+      "slug": "introduction",
+      "display_order": 0,
+      "content_blocks": [
+        {
+          "_id": "blk_g6a2swnk5hik",
+          "type": "heading",
+          "block_order": 1,
+          "source_page": 23,
+          "level": 1,
+          "text": "Chapter 1: Essential Ideas",
+          "slug_anchor": "chapter-1-essential-ideas",
+          "html": "<h1 id='chapter-1-essential-ideas'>Chapter 1: Essential Ideas</h1>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_ihbwd04p08s6",
+          "type": "paragraph",
+          "block_order": 2,
+          "source_page": 23,
+          "text": "Your alarm goes off and, after hitting snooze once or twice, you pry yourself out of bed. You make a cup of coffee to help you get going, and then you shower, get dressed, eat breakfast, and check your phone for messages.",
+          "contains_formula": false,
+          "key_terms_in_text": [],
+          "html": "<p>Your alarm goes off and, after hitting snooze once or twice, you pry yourself out of bed. You make a cup of coffee to help you get going, and then you shower, get dressed, eat breakfast, and check your phone for messages.</p>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_1dn1mmec4pow",
+          "type": "paragraph",
+          "block_order": 3,
+          "source_page": 23,
+          "text": "On your way to school, you stop to fill your car's gas tank, almost making you late for the first day of chemistry class. As you find a seat in the classroom, you read the question projected on the screen: Welcome to class! Why should we study chemistry?",
+          "contains_formula": false,
+          "key_terms_in_text": [],
+          "html": "<p>On your way to school, you stop to fill your car's gas tank, almost making you late for the first day of chemistry class. As you find a seat in the classroom, you read the question projected on the screen: Welcome to class! Why should we study chemistry?</p>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_hmonpjvqcuv8",
+          "type": "paragraph",
+          "block_order": 4,
+          "source_page": 23,
+          "text": "Do you have an answer? You may be studying chemistry because it fulfills an academic requirement, but if you consider your daily activities, you might find chemistry interesting for other reasons. Most everything you do and encounter during your day involves chemistry.",
+          "contains_formula": false,
+          "key_terms_in_text": [],
+          "html": "<p>Do you have an answer? You may be studying chemistry because it fulfills an academic requirement, but if you consider your daily activities, you might find chemistry interesting for other reasons. Most everything you do and encounter during your day involves chemistry.</p>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        }
+      ],
+      "title_vernacular": "",
+      "slug_global": "doc_ehdnbmyajks4-ch1-introduction",
+      "url_path": "/curriculum/chemistry/grade-11/chapter-1/introduction",
+      "section_number": "",
+      "topic_type": "intro",
+      "difficulty": "medium",
+      "difficulty_score": 0.5,
+      "estimated_read_time_minutes": 4,
+      "bloom_level": "understand",
+      "subject": "chemistry",
+      "grade_numeric": 11,
+      "language": "english",
+      "keywords": [
+        "introduction"
+      ],
+      "key_terms_preview": [],
+      "source_page_start": 23,
+      "source_page_end": 23,
+      "word_count": 154,
+      "seo": {
+        "meta_title": "Introduction — Chemistry Grade 11 | Sijil",
+        "meta_description": "Learn about Introduction in Chemistry Grade 11.",
+        "canonical_url": "",
+        "focus_keyword": "introduction",
+        "keywords": [
+          "introduction"
+        ],
+        "breadcrumb": [
+          "Home",
+          "Chemistry",
+          "Grade 11",
+          "Chapter 1",
+          "Introduction"
+        ],
+        "json_ld_types": [
+          "TechArticle",
+          "LearningResource"
+        ]
+      },
+      "geo": {
+        "llm_summary": "This topic covers Introduction from Chapter 1 of Chemistry.",
+        "authoritative_source": "OpenStax Chemistry 2e (2019)",
+        "citation_format": "OpenStax Chemistry 2e (2019), Chapter 1, Introduction, Page 23",
+        "entity_name": "Introduction",
+        "entity_type": "EducationalTopic",
+        "trustworthiness_signals": [
+          "openstax",
+          "peer_reviewed"
+        ],
+        "source_citations": []
+      },
+      "design_meta": {
+        "primary_color_theme": "blue",
+        "icon_suggestion": "flask",
+        "layout_template": "standard",
+        "animation_complexity": "medium"
+      },
+      "raw_text": "Chapter 1: Essential Ideas Your alarm goes off and, after hitting snooze once or twice, you pry yourself out of bed. You make a cup of coffee to help you get going, and then you shower, get dressed, eat breakfast, and check your phone for messages. On your way to school, you stop to fill your car's gas tank, almost making you late for the first day of chemistry class. As you find a seat in the classroom, you read the question projected on the screen: Welcome to class! Why should we study chemistry? Do you have an answer? You may be studying chemistry because it fulfills an academic requirement, but if you consider your daily activities, you might find chemistry interesting for other reasons. Most everything you do and encounter during your day involves chemistry.",
+      "clean_html": "<h1 id='chapter-1-essential-ideas'>Chapter 1: Essential Ideas</h1><p>Your alarm goes off and, after hitting snooze once or twice, you pry yourself out of bed. You make a cup of coffee to help you get going, and then you shower, get dressed, eat breakfast, and check your phone for messages.</p><p>On your way to school, you stop to fill your car's gas tank, almost making you late for the first day of chemistry class. As you find a seat in the classroom, you read the question projected on the screen: Welcome to class! Why should we study chemistry?</p><p>Do you have an answer? You may be studying chemistry because it fulfills an academic requirement, but if you consider your daily activities, you might find chemistry interesting for other reasons. Most everything you do and encounter during your day involves chemistry.</p>",
+      "formulas": [],
+      "key_terms": [],
+      "examples": [],
+      "callouts": [],
+      "ai_answer_hub": [],
+      "faq": [],
+      "entity_extraction": {
+        "core_concepts": [
+          "Introduction"
+        ],
+        "scientific_laws": [],
+        "historical_figures": [],
+        "units_and_standards": [],
+        "instruments_mentioned": [],
+        "cross_concept_links": []
+      },
+      "downloadable_outputs": {
+        "formula_pack": [],
+        "cheat_sheet_summary": "Summary of Introduction.",
+        "exam_hot_spots": [],
+        "revision_notes_markdown": ""
+      },
+      "source_citations": [],
+      "quran_data": null,
+      "figures": [],
+      "tables": [],
+      "book_mcqs": [],
+      "book_short_questions": [],
+      "book_problems": [],
+      "activities": [],
+      "flashcards": [],
+      "internal_links_suggested": []
+    },
+    {
+      "_id": "top_f9wsnedbxp4v",
+      "document_id": "doc_ehdnbmyajks4",
+      "chapter_id": "ch_rsquyvutetn3",
+      "title": "Chemistry in Context",
+      "slug": "chemistry-in-context",
+      "display_order": 1,
+      "content_blocks": [
+        {
+          "_id": "blk_qr41ilsvtlwe",
+          "type": "heading",
+          "block_order": 1,
+          "source_page": 23,
+          "level": 2,
+          "text": "1.1 Chemistry in Context",
+          "slug_anchor": "1-1-chemistry-in-context",
+          "html": "<h2 id='1-1-chemistry-in-context'>1.1 Chemistry in Context</h2>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_46xp3ozysk3d",
+          "type": "learning_outcomes",
+          "block_order": 6,
+          "source_page": 23,
+          "outcomes": [
+            "Outline the historical development of chemistry",
+            "Provide examples of the importance of chemistry in everyday life",
+            "Describe the scientific method",
+            "Differentiate among hypotheses, theories, and laws",
+            "Provide examples illustrating macroscopic, microscopic, and symbolic domains"
+          ],
+          "html": "<div class='slo-box'><ul><li>Outline the historical development of chemistry</li><li>Provide examples of the importance of chemistry in everyday life</li><li>Describe the scientific method</li><li>Differentiate among hypotheses, theories, and laws</li><li>Provide examples illustrating macroscopic, microscopic, and symbolic domains</li></ul></div>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_2cw9idgttr4e",
+          "type": "paragraph",
+          "block_order": 7,
+          "source_page": 23,
+          "text": "Throughout human history, people have tried to convert matter into more useful forms. Our Stone Age ancestors chipped pieces of flint into useful tools and carved wood into statues and toys.",
+          "contains_formula": false,
+          "key_terms_in_text": [],
+          "html": "<p>Throughout human history, people have tried to convert matter into more useful forms. Our Stone Age ancestors chipped pieces of flint into useful tools and carved wood into statues and toys.</p>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_nf0cd2rxrgf2",
+          "type": "paragraph",
+          "block_order": 8,
+          "source_page": 24,
+          "text": "Humans began to practice chemistry when they learned to control fire and use it to cook, make pottery, and smelt metals. Subsequently, they began to separate and use specific components of matter.",
+          "contains_formula": false,
+          "key_terms_in_text": [],
+          "html": "<p>Humans began to practice chemistry when they learned to control fire and use it to cook, make pottery, and smelt metals. Subsequently, they began to separate and use specific components of matter.</p>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_wyvy7mql6vu7",
+          "type": "paragraph",
+          "block_order": 9,
+          "source_page": 24,
+          "text": "Attempts to understand the behavior of matter extend back for more than 2500 years. As early as the sixth century BC, Greek philosophers discussed a system in which water was the basis of all things.",
+          "contains_formula": false,
+          "key_terms_in_text": [],
+          "html": "<p>Attempts to understand the behavior of matter extend back for more than 2500 years. As early as the sixth century BC, Greek philosophers discussed a system in which water was the basis of all things.</p>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        }
+      ],
+      "title_vernacular": "",
+      "slug_global": "doc_ehdnbmyajks4-ch1-chemistry-in-context",
+      "url_path": "/curriculum/chemistry/grade-11/chapter-1/chemistry-in-context",
+      "section_number": "1.1",
+      "topic_type": "content",
+      "difficulty": "medium",
+      "difficulty_score": 0.5,
+      "estimated_read_time_minutes": 5,
+      "bloom_level": "understand",
+      "subject": "chemistry",
+      "grade_numeric": 11,
+      "language": "english",
+      "keywords": [
+        "chemistry-in-context"
+      ],
+      "key_terms_preview": [],
+      "source_page_start": 23,
+      "source_page_end": 24,
+      "word_count": 121,
+      "seo": {
+        "meta_title": "Chemistry in Context — Chemistry Grade 11 | Sijil",
+        "meta_description": "Learn about Chemistry in Context in Chemistry Grade 11.",
+        "canonical_url": "",
+        "focus_keyword": "chemistry in context",
+        "keywords": [
+          "chemistry in context"
+        ],
+        "breadcrumb": [
+          "Home",
+          "Chemistry",
+          "Grade 11",
+          "Chapter 1",
+          "Chemistry in Context"
+        ],
+        "json_ld_types": [
+          "TechArticle",
+          "LearningResource"
+        ]
+      },
+      "geo": {
+        "llm_summary": "This topic covers Chemistry in Context from Chapter 1 of Chemistry.",
+        "authoritative_source": "OpenStax Chemistry 2e (2019)",
+        "citation_format": "OpenStax Chemistry 2e (2019), Chapter 1, 1.1, Page 23",
+        "entity_name": "Chemistry in Context",
+        "entity_type": "EducationalTopic",
+        "trustworthiness_signals": [
+          "openstax",
+          "peer_reviewed"
+        ],
+        "source_citations": []
+      },
+      "design_meta": {
+        "primary_color_theme": "blue",
+        "icon_suggestion": "flask",
+        "layout_template": "standard",
+        "animation_complexity": "medium"
+      },
+      "raw_text": "1.1 Chemistry in Context  Throughout human history, people have tried to convert matter into more useful forms. Our Stone Age ancestors chipped pieces of flint into useful tools and carved wood into statues and toys. Humans began to practice chemistry when they learned to control fire and use it to cook, make pottery, and smelt metals. Subsequently, they began to separate and use specific components of matter. Attempts to understand the behavior of matter extend back for more than 2500 years. As early as the sixth century BC, Greek philosophers discussed a system in which water was the basis of all things.",
+      "clean_html": "<h2 id='1-1-chemistry-in-context'>1.1 Chemistry in Context</h2><div class='slo-box'><ul><li>Outline the historical development of chemistry</li><li>Provide examples of the importance of chemistry in everyday life</li><li>Describe the scientific method</li><li>Differentiate among hypotheses, theories, and laws</li><li>Provide examples illustrating macroscopic, microscopic, and symbolic domains</li></ul></div><p>Throughout human history, people have tried to convert matter into more useful forms. Our Stone Age ancestors chipped pieces of flint into useful tools and carved wood into statues and toys.</p><p>Humans began to practice chemistry when they learned to control fire and use it to cook, make pottery, and smelt metals. Subsequently, they began to separate and use specific components of matter.</p><p>Attempts to understand the behavior of matter extend back for more than 2500 years. As early as the sixth century BC, Greek philosophers discussed a system in which water was the basis of all things.</p>",
+      "formulas": [],
+      "key_terms": [],
+      "examples": [],
+      "callouts": [],
+      "ai_answer_hub": [],
+      "faq": [],
+      "entity_extraction": {
+        "core_concepts": [
+          "Chemistry in Context"
+        ],
+        "scientific_laws": [],
+        "historical_figures": [],
+        "units_and_standards": [],
+        "instruments_mentioned": [],
+        "cross_concept_links": []
+      },
+      "downloadable_outputs": {
+        "formula_pack": [],
+        "cheat_sheet_summary": "Summary of Chemistry in Context.",
+        "exam_hot_spots": [],
+        "revision_notes_markdown": ""
+      },
+      "source_citations": [],
+      "quran_data": null,
+      "figures": [],
+      "tables": [],
+      "book_mcqs": [],
+      "book_short_questions": [],
+      "book_problems": [],
+      "activities": [],
+      "flashcards": [],
+      "internal_links_suggested": []
+    },
+    {
+      "_id": "top_sqsi7ejwzxyw",
+      "document_id": "doc_ehdnbmyajks4",
+      "chapter_id": "ch_rsquyvutetn3",
+      "title": "Phases and Classification of Matter",
+      "slug": "phases-and-classification-of-matter",
+      "display_order": 2,
+      "content_blocks": [
+        {
+          "_id": "blk_3i4u2i6x60e3",
+          "type": "heading",
+          "block_order": 1,
+          "source_page": 25,
+          "level": 2,
+          "text": "1.2 Phases and Classification of Matter",
+          "slug_anchor": "1-2-phases-and-classification-of-matter",
+          "html": "<h2 id='1-2-phases-and-classification-of-matter'>1.2 Phases and Classification of Matter</h2>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_6t5p6lkuc0lf",
+          "type": "learning_outcomes",
+          "block_order": 11,
+          "source_page": 25,
+          "outcomes": [
+            "Describe the basic properties of each physical state of matter",
+            "Classify matter as an element, compound, homogeneous mixture, or heterogeneous mixture",
+            "Distinguish between mass and weight",
+            "Apply the law of conservation of matter"
+          ],
+          "html": "<div class='slo-box'><ul><li>Describe the basic properties of each physical state of matter</li><li>Classify matter as an element, compound, homogeneous mixture, or heterogeneous mixture</li><li>Distinguish between mass and weight</li><li>Apply the law of conservation of matter</li></ul></div>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_dd8jx5vrr1ru",
+          "type": "paragraph",
+          "block_order": 12,
+          "source_page": 25,
+          "text": "Matter is defined as anything that occupies space and has mass, and it is all around us. Mass and volume are measures of the amount of matter present in a substance.",
+          "contains_formula": false,
+          "key_terms_in_text": [],
+          "html": "<p>Matter is defined as anything that occupies space and has mass, and it is all around us. Mass and volume are measures of the amount of matter present in a substance.</p>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_6pv8p6v0jby0",
+          "type": "paragraph",
+          "block_order": 13,
+          "source_page": 25,
+          "text": "The three most common states or phases of matter are solid, liquid, and gas. A fourth state of matter, plasma, occurs naturally in the interiors of stars.",
+          "contains_formula": false,
+          "key_terms_in_text": [],
+          "html": "<p>The three most common states or phases of matter are solid, liquid, and gas. A fourth state of matter, plasma, occurs naturally in the interiors of stars.</p>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_0adu50q8upl4",
+          "type": "paragraph",
+          "block_order": 14,
+          "source_page": 26,
+          "text": "A solid has a definite shape and a definite volume. Liquids have a definite volume but take the shape of their container. Gases have neither a definite shape nor a definite volume.",
+          "contains_formula": false,
+          "key_terms_in_text": [],
+          "html": "<p>A solid has a definite shape and a definite volume. Liquids have a definite volume but take the shape of their container. Gases have neither a definite shape nor a definite volume.</p>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        }
+      ],
+      "title_vernacular": "",
+      "slug_global": "doc_ehdnbmyajks4-ch1-phases-and-classification-of-matter",
+      "url_path": "/curriculum/chemistry/grade-11/chapter-1/phases-and-classification-of-matter",
+      "section_number": "1.2",
+      "topic_type": "content",
+      "difficulty": "medium",
+      "difficulty_score": 0.5,
+      "estimated_read_time_minutes": 5,
+      "bloom_level": "understand",
+      "subject": "chemistry",
+      "grade_numeric": 11,
+      "language": "english",
+      "keywords": [
+        "phases-and-classification-of-matter"
+      ],
+      "key_terms_preview": [],
+      "source_page_start": 25,
+      "source_page_end": 26,
+      "word_count": 107,
+      "seo": {
+        "meta_title": "Phases and Classification of Matter — Chemistry Grade 11 | Sijil",
+        "meta_description": "Learn about Phases and Classification of Matter in Chemistry Grade 11.",
+        "canonical_url": "",
+        "focus_keyword": "phases and classification of matter",
+        "keywords": [
+          "phases and classification of matter"
+        ],
+        "breadcrumb": [
+          "Home",
+          "Chemistry",
+          "Grade 11",
+          "Chapter 1",
+          "Phases and Classification of Matter"
+        ],
+        "json_ld_types": [
+          "TechArticle",
+          "LearningResource"
+        ]
+      },
+      "geo": {
+        "llm_summary": "This topic covers Phases and Classification of Matter from Chapter 1 of Chemistry.",
+        "authoritative_source": "OpenStax Chemistry 2e (2019)",
+        "citation_format": "OpenStax Chemistry 2e (2019), Chapter 1, 1.2, Page 25",
+        "entity_name": "Phases and Classification of Matter",
+        "entity_type": "EducationalTopic",
+        "trustworthiness_signals": [
+          "openstax",
+          "peer_reviewed"
+        ],
+        "source_citations": []
+      },
+      "design_meta": {
+        "primary_color_theme": "blue",
+        "icon_suggestion": "flask",
+        "layout_template": "standard",
+        "animation_complexity": "medium"
+      },
+      "raw_text": "1.2 Phases and Classification of Matter  Matter is defined as anything that occupies space and has mass, and it is all around us. Mass and volume are measures of the amount of matter present in a substance. The three most common states or phases of matter are solid, liquid, and gas. A fourth state of matter, plasma, occurs naturally in the interiors of stars. A solid has a definite shape and a definite volume. Liquids have a definite volume but take the shape of their container. Gases have neither a definite shape nor a definite volume.",
+      "clean_html": "<h2 id='1-2-phases-and-classification-of-matter'>1.2 Phases and Classification of Matter</h2><div class='slo-box'><ul><li>Describe the basic properties of each physical state of matter</li><li>Classify matter as an element, compound, homogeneous mixture, or heterogeneous mixture</li><li>Distinguish between mass and weight</li><li>Apply the law of conservation of matter</li></ul></div><p>Matter is defined as anything that occupies space and has mass, and it is all around us. Mass and volume are measures of the amount of matter present in a substance.</p><p>The three most common states or phases of matter are solid, liquid, and gas. A fourth state of matter, plasma, occurs naturally in the interiors of stars.</p><p>A solid has a definite shape and a definite volume. Liquids have a definite volume but take the shape of their container. Gases have neither a definite shape nor a definite volume.</p>",
+      "formulas": [],
+      "key_terms": [],
+      "examples": [],
+      "callouts": [],
+      "ai_answer_hub": [],
+      "faq": [],
+      "entity_extraction": {
+        "core_concepts": [
+          "Phases and Classification of Matter"
+        ],
+        "scientific_laws": [],
+        "historical_figures": [],
+        "units_and_standards": [],
+        "instruments_mentioned": [],
+        "cross_concept_links": []
+      },
+      "downloadable_outputs": {
+        "formula_pack": [],
+        "cheat_sheet_summary": "Summary of Phases and Classification of Matter.",
+        "exam_hot_spots": [],
+        "revision_notes_markdown": ""
+      },
+      "source_citations": [],
+      "quran_data": null,
+      "figures": [],
+      "tables": [],
+      "book_mcqs": [],
+      "book_short_questions": [],
+      "book_problems": [],
+      "activities": [],
+      "flashcards": [],
+      "internal_links_suggested": []
+    },
+    {
+      "_id": "top_lgnm6wsxj0oq",
+      "document_id": "doc_ehdnbmyajks4",
+      "chapter_id": "ch_rsquyvutetn3",
+      "title": "Physical and Chemical Properties",
+      "slug": "physical-and-chemical-properties",
+      "display_order": 3,
+      "content_blocks": [
+        {
+          "_id": "blk_n42h1eezr9aq",
+          "type": "heading",
+          "block_order": 1,
+          "source_page": 27,
+          "level": 2,
+          "text": "1.3 Physical and Chemical Properties",
+          "slug_anchor": "1-3-physical-and-chemical-properties",
+          "html": "<h2 id='1-3-physical-and-chemical-properties'>1.3 Physical and Chemical Properties</h2>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_5cbzdz9cbklb",
+          "type": "learning_outcomes",
+          "block_order": 16,
+          "source_page": 27,
+          "outcomes": [
+            "Identify properties of matter as physical or chemical",
+            "Give examples of extensive and intensive properties"
+          ],
+          "html": "<div class='slo-box'><ul><li>Identify properties of matter as physical or chemical</li><li>Give examples of extensive and intensive properties</li></ul></div>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_42hqfy7e5ue5",
+          "type": "paragraph",
+          "block_order": 17,
+          "source_page": 27,
+          "text": "Properties of matter fall into one of two categories. If the property depends on the amount of matter present, it is an extensive property. Mass and volume are examples of extensive properties.",
+          "contains_formula": false,
+          "key_terms_in_text": [],
+          "html": "<p>Properties of matter fall into one of two categories. If the property depends on the amount of matter present, it is an extensive property. Mass and volume are examples of extensive properties.</p>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_rvczzv791x6o",
+          "type": "paragraph",
+          "block_order": 18,
+          "source_page": 27,
+          "text": "An intensive property is a property of matter that depends only on the type of matter in a sample, not on the amount. Color, temperature, and solubility are examples of intensive properties.",
+          "contains_formula": false,
+          "key_terms_in_text": [],
+          "html": "<p>An intensive property is a property of matter that depends only on the type of matter in a sample, not on the amount. Color, temperature, and solubility are examples of intensive properties.</p>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_dpsb37fsgxch",
+          "type": "paragraph",
+          "block_order": 19,
+          "source_page": 28,
+          "text": "Physical properties include characteristics such as color, odor, density, melting point, boiling point, and hardness. Chemical properties describe the ability of a substance to undergo changes that transform it into a different substance.",
+          "contains_formula": false,
+          "key_terms_in_text": [],
+          "html": "<p>Physical properties include characteristics such as color, odor, density, melting point, boiling point, and hardness. Chemical properties describe the ability of a substance to undergo changes that transform it into a different substance.</p>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        }
+      ],
+      "title_vernacular": "",
+      "slug_global": "doc_ehdnbmyajks4-ch1-physical-and-chemical-properties",
+      "url_path": "/curriculum/chemistry/grade-11/chapter-1/physical-and-chemical-properties",
+      "section_number": "1.3",
+      "topic_type": "content",
+      "difficulty": "medium",
+      "difficulty_score": 0.5,
+      "estimated_read_time_minutes": 5,
+      "bloom_level": "understand",
+      "subject": "chemistry",
+      "grade_numeric": 11,
+      "language": "english",
+      "keywords": [
+        "physical-and-chemical-properties"
+      ],
+      "key_terms_preview": [],
+      "source_page_start": 27,
+      "source_page_end": 28,
+      "word_count": 131,
+      "seo": {
+        "meta_title": "Physical and Chemical Properties — Chemistry Grade 11 | Sijil",
+        "meta_description": "Learn about Physical and Chemical Properties in Chemistry Grade 11.",
+        "canonical_url": "",
+        "focus_keyword": "physical and chemical properties",
+        "keywords": [
+          "physical and chemical properties"
+        ],
+        "breadcrumb": [
+          "Home",
+          "Chemistry",
+          "Grade 11",
+          "Chapter 1",
+          "Physical and Chemical Properties"
+        ],
+        "json_ld_types": [
+          "TechArticle",
+          "LearningResource"
+        ]
+      },
+      "geo": {
+        "llm_summary": "This topic covers Physical and Chemical Properties from Chapter 1 of Chemistry.",
+        "authoritative_source": "OpenStax Chemistry 2e (2019)",
+        "citation_format": "OpenStax Chemistry 2e (2019), Chapter 1, 1.3, Page 27",
+        "entity_name": "Physical and Chemical Properties",
+        "entity_type": "EducationalTopic",
+        "trustworthiness_signals": [
+          "openstax",
+          "peer_reviewed"
+        ],
+        "source_citations": []
+      },
+      "design_meta": {
+        "primary_color_theme": "blue",
+        "icon_suggestion": "flask",
+        "layout_template": "standard",
+        "animation_complexity": "medium"
+      },
+      "raw_text": "1.3 Physical and Chemical Properties  Properties of matter fall into one of two categories. If the property depends on the amount of matter present, it is an extensive property. Mass and volume are examples of extensive properties. An intensive property is a property of matter that depends only on the type of matter in a sample, not on the amount. Color, temperature, and solubility are examples of intensive properties. Physical properties include characteristics such as color, odor, density, melting point, boiling point, and hardness. Chemical properties describe the ability of a substance to undergo changes that transform it into a different substance.",
+      "clean_html": "<h2 id='1-3-physical-and-chemical-properties'>1.3 Physical and Chemical Properties</h2><div class='slo-box'><ul><li>Identify properties of matter as physical or chemical</li><li>Give examples of extensive and intensive properties</li></ul></div><p>Properties of matter fall into one of two categories. If the property depends on the amount of matter present, it is an extensive property. Mass and volume are examples of extensive properties.</p><p>An intensive property is a property of matter that depends only on the type of matter in a sample, not on the amount. Color, temperature, and solubility are examples of intensive properties.</p><p>Physical properties include characteristics such as color, odor, density, melting point, boiling point, and hardness. Chemical properties describe the ability of a substance to undergo changes that transform it into a different substance.</p>",
+      "formulas": [],
+      "key_terms": [],
+      "examples": [],
+      "callouts": [],
+      "ai_answer_hub": [],
+      "faq": [],
+      "entity_extraction": {
+        "core_concepts": [
+          "Physical and Chemical Properties"
+        ],
+        "scientific_laws": [],
+        "historical_figures": [],
+        "units_and_standards": [],
+        "instruments_mentioned": [],
+        "cross_concept_links": []
+      },
+      "downloadable_outputs": {
+        "formula_pack": [],
+        "cheat_sheet_summary": "Summary of Physical and Chemical Properties.",
+        "exam_hot_spots": [],
+        "revision_notes_markdown": ""
+      },
+      "source_citations": [],
+      "quran_data": null,
+      "figures": [],
+      "tables": [],
+      "book_mcqs": [],
+      "book_short_questions": [],
+      "book_problems": [],
+      "activities": [],
+      "flashcards": [],
+      "internal_links_suggested": []
+    },
+    {
+      "_id": "top_4dc4nxmvv0hj",
+      "document_id": "doc_ehdnbmyajks4",
+      "chapter_id": "ch_rsquyvutetn3",
+      "title": "Measurements",
+      "slug": "measurements",
+      "display_order": 4,
+      "content_blocks": [
+        {
+          "_id": "blk_v4xs59eay9ab",
+          "type": "heading",
+          "block_order": 1,
+          "source_page": 29,
+          "level": 2,
+          "text": "1.4 Measurements",
+          "slug_anchor": "1-4-measurements",
+          "html": "<h2 id='1-4-measurements'>1.4 Measurements</h2>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_uxvt57khxofp",
+          "type": "learning_outcomes",
+          "block_order": 21,
+          "source_page": 29,
+          "outcomes": [
+            "Explain the metric system",
+            "Define and use SI base units",
+            "Convert between units using dimensional analysis"
+          ],
+          "html": "<div class='slo-box'><ul><li>Explain the metric system</li><li>Define and use SI base units</li><li>Convert between units using dimensional analysis</li></ul></div>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_xfokdyhqhxxg",
+          "type": "paragraph",
+          "block_order": 22,
+          "source_page": 29,
+          "text": "Measurements provide the macroscopic information that is the basis for most of the hypotheses, theories, and laws that describe the behavior of matter and energy in both the macroscopic and microscopic domains of chemistry.",
+          "contains_formula": false,
+          "key_terms_in_text": [],
+          "html": "<p>Measurements provide the macroscopic information that is the basis for most of the hypotheses, theories, and laws that describe the behavior of matter and energy in both the macroscopic and microscopic domains of chemistry.</p>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_ge0amae36zyk",
+          "type": "paragraph",
+          "block_order": 23,
+          "source_page": 29,
+          "text": "Every measurement provides three kinds of information: the size or magnitude of the measurement (a number); a standard of comparison for the measurement (a unit); and an indication of the uncertainty of the measurement.",
+          "contains_formula": false,
+          "key_terms_in_text": [],
+          "html": "<p>Every measurement provides three kinds of information: the size or magnitude of the measurement (a number); a standard of comparison for the measurement (a unit); and an indication of the uncertainty of the measurement.</p>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_vxclscnoczpf",
+          "type": "paragraph",
+          "block_order": 24,
+          "source_page": 30,
+          "text": "The SI system defines seven base units: meter (length), kilogram (mass), second (time), ampere (electric current), kelvin (temperature), mole (amount of substance), and candela (luminous intensity).",
+          "contains_formula": false,
+          "key_terms_in_text": [],
+          "html": "<p>The SI system defines seven base units: meter (length), kilogram (mass), second (time), ampere (electric current), kelvin (temperature), mole (amount of substance), and candela (luminous intensity).</p>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        }
+      ],
+      "title_vernacular": "",
+      "slug_global": "doc_ehdnbmyajks4-ch1-measurements",
+      "url_path": "/curriculum/chemistry/grade-11/chapter-1/measurements",
+      "section_number": "1.4",
+      "topic_type": "content",
+      "difficulty": "medium",
+      "difficulty_score": 0.5,
+      "estimated_read_time_minutes": 5,
+      "bloom_level": "understand",
+      "subject": "chemistry",
+      "grade_numeric": 11,
+      "language": "english",
+      "keywords": [
+        "measurements"
+      ],
+      "key_terms_preview": [],
+      "source_page_start": 29,
+      "source_page_end": 30,
+      "word_count": 131,
+      "seo": {
+        "meta_title": "Measurements — Chemistry Grade 11 | Sijil",
+        "meta_description": "Learn about Measurements in Chemistry Grade 11.",
+        "canonical_url": "",
+        "focus_keyword": "measurements",
+        "keywords": [
+          "measurements"
+        ],
+        "breadcrumb": [
+          "Home",
+          "Chemistry",
+          "Grade 11",
+          "Chapter 1",
+          "Measurements"
+        ],
+        "json_ld_types": [
+          "TechArticle",
+          "LearningResource"
+        ]
+      },
+      "geo": {
+        "llm_summary": "This topic covers Measurements from Chapter 1 of Chemistry.",
+        "authoritative_source": "OpenStax Chemistry 2e (2019)",
+        "citation_format": "OpenStax Chemistry 2e (2019), Chapter 1, 1.4, Page 29",
+        "entity_name": "Measurements",
+        "entity_type": "EducationalTopic",
+        "trustworthiness_signals": [
+          "openstax",
+          "peer_reviewed"
+        ],
+        "source_citations": []
+      },
+      "design_meta": {
+        "primary_color_theme": "blue",
+        "icon_suggestion": "flask",
+        "layout_template": "standard",
+        "animation_complexity": "medium"
+      },
+      "raw_text": "1.4 Measurements  Measurements provide the macroscopic information that is the basis for most of the hypotheses, theories, and laws that describe the behavior of matter and energy in both the macroscopic and microscopic domains of chemistry. Every measurement provides three kinds of information: the size or magnitude of the measurement (a number); a standard of comparison for the measurement (a unit); and an indication of the uncertainty of the measurement. The SI system defines seven base units: meter (length), kilogram (mass), second (time), ampere (electric current), kelvin (temperature), mole (amount of substance), and candela (luminous intensity).",
+      "clean_html": "<h2 id='1-4-measurements'>1.4 Measurements</h2><div class='slo-box'><ul><li>Explain the metric system</li><li>Define and use SI base units</li><li>Convert between units using dimensional analysis</li></ul></div><p>Measurements provide the macroscopic information that is the basis for most of the hypotheses, theories, and laws that describe the behavior of matter and energy in both the macroscopic and microscopic domains of chemistry.</p><p>Every measurement provides three kinds of information: the size or magnitude of the measurement (a number); a standard of comparison for the measurement (a unit); and an indication of the uncertainty of the measurement.</p><p>The SI system defines seven base units: meter (length), kilogram (mass), second (time), ampere (electric current), kelvin (temperature), mole (amount of substance), and candela (luminous intensity).</p>",
+      "formulas": [],
+      "key_terms": [],
+      "examples": [],
+      "callouts": [],
+      "ai_answer_hub": [],
+      "faq": [],
+      "entity_extraction": {
+        "core_concepts": [
+          "Measurements"
+        ],
+        "scientific_laws": [],
+        "historical_figures": [],
+        "units_and_standards": [],
+        "instruments_mentioned": [],
+        "cross_concept_links": []
+      },
+      "downloadable_outputs": {
+        "formula_pack": [],
+        "cheat_sheet_summary": "Summary of Measurements.",
+        "exam_hot_spots": [],
+        "revision_notes_markdown": ""
+      },
+      "source_citations": [],
+      "quran_data": null,
+      "figures": [],
+      "tables": [],
+      "book_mcqs": [],
+      "book_short_questions": [],
+      "book_problems": [],
+      "activities": [],
+      "flashcards": [],
+      "internal_links_suggested": []
+    },
+    {
+      "_id": "top_e0ka5yet6eyu",
+      "document_id": "doc_ehdnbmyajks4",
+      "chapter_id": "ch_rsquyvutetn3",
+      "title": "Measurement Uncertainty, Accuracy, and Precision",
+      "slug": "measurement-uncertainty-accuracy-precision",
+      "display_order": 5,
+      "content_blocks": [
+        {
+          "_id": "blk_7sf1o5kknlo0",
+          "type": "heading",
+          "block_order": 1,
+          "source_page": 31,
+          "level": 2,
+          "text": "1.5 Measurement Uncertainty, Accuracy, and Precision",
+          "slug_anchor": "1-5-measurement-uncertainty-accuracy-precision",
+          "html": "<h2 id='1-5-measurement-uncertainty-accuracy-precision'>1.5 Measurement Uncertainty, Accuracy, and Precision</h2>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_ou70ycqrgqjp",
+          "type": "learning_outcomes",
+          "block_order": 26,
+          "source_page": 31,
+          "outcomes": [
+            "Define accuracy and precision",
+            "Distinguish between exact and measured numbers",
+            "Use significant figures in calculations"
+          ],
+          "html": "<div class='slo-box'><ul><li>Define accuracy and precision</li><li>Distinguish between exact and measured numbers</li><li>Use significant figures in calculations</li></ul></div>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_vilpem70u44v",
+          "type": "paragraph",
+          "block_order": 27,
+          "source_page": 31,
+          "text": "Counting is the only type of measurement that is free from uncertainty, provided the number of objects being counted does not change while counting and the result is less than infinity.",
+          "contains_formula": false,
+          "key_terms_in_text": [],
+          "html": "<p>Counting is the only type of measurement that is free from uncertainty, provided the number of objects being counted does not change while counting and the result is less than infinity.</p>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_2lv75r0okos1",
+          "type": "paragraph",
+          "block_order": 28,
+          "source_page": 31,
+          "text": "Accuracy refers to how closely a measurement aligns with the correct or true value. Precision refers to how closely repeated measurements under unchanged conditions show the same results.",
+          "contains_formula": false,
+          "key_terms_in_text": [],
+          "html": "<p>Accuracy refers to how closely a measurement aligns with the correct or true value. Precision refers to how closely repeated measurements under unchanged conditions show the same results.</p>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_dqs5mks8ajq3",
+          "type": "paragraph",
+          "block_order": 29,
+          "source_page": 32,
+          "text": "Significant figures convey the uncertainty in a measurement. The digits in a measurement include all certain digits plus one uncertain digit.",
+          "contains_formula": false,
+          "key_terms_in_text": [],
+          "html": "<p>Significant figures convey the uncertainty in a measurement. The digits in a measurement include all certain digits plus one uncertain digit.</p>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        }
+      ],
+      "title_vernacular": "",
+      "slug_global": "doc_ehdnbmyajks4-ch1-measurement-uncertainty-accuracy-precision",
+      "url_path": "/curriculum/chemistry/grade-11/chapter-1/measurement-uncertainty-accuracy-precision",
+      "section_number": "1.5",
+      "topic_type": "content",
+      "difficulty": "medium",
+      "difficulty_score": 0.5,
+      "estimated_read_time_minutes": 5,
+      "bloom_level": "understand",
+      "subject": "chemistry",
+      "grade_numeric": 11,
+      "language": "english",
+      "keywords": [
+        "measurement-uncertainty,-accuracy,-and-precision"
+      ],
+      "key_terms_preview": [],
+      "source_page_start": 31,
+      "source_page_end": 32,
+      "word_count": 113,
+      "seo": {
+        "meta_title": "Measurement Uncertainty, Accuracy, and Precision — Chemistry Grade 11 | Sijil",
+        "meta_description": "Learn about Measurement Uncertainty, Accuracy, and Precision in Chemistry Grade 11.",
+        "canonical_url": "",
+        "focus_keyword": "measurement uncertainty, accuracy, and precision",
+        "keywords": [
+          "measurement uncertainty, accuracy, and precision"
+        ],
+        "breadcrumb": [
+          "Home",
+          "Chemistry",
+          "Grade 11",
+          "Chapter 1",
+          "Measurement Uncertainty, Accuracy, and Precision"
+        ],
+        "json_ld_types": [
+          "TechArticle",
+          "LearningResource"
+        ]
+      },
+      "geo": {
+        "llm_summary": "This topic covers Measurement Uncertainty, Accuracy, and Precision from Chapter 1 of Chemistry.",
+        "authoritative_source": "OpenStax Chemistry 2e (2019)",
+        "citation_format": "OpenStax Chemistry 2e (2019), Chapter 1, 1.5, Page 31",
+        "entity_name": "Measurement Uncertainty, Accuracy, and Precision",
+        "entity_type": "EducationalTopic",
+        "trustworthiness_signals": [
+          "openstax",
+          "peer_reviewed"
+        ],
+        "source_citations": []
+      },
+      "design_meta": {
+        "primary_color_theme": "blue",
+        "icon_suggestion": "flask",
+        "layout_template": "standard",
+        "animation_complexity": "medium"
+      },
+      "raw_text": "1.5 Measurement Uncertainty, Accuracy, and Precision  Counting is the only type of measurement that is free from uncertainty, provided the number of objects being counted does not change while counting and the result is less than infinity. Accuracy refers to how closely a measurement aligns with the correct or true value. Precision refers to how closely repeated measurements under unchanged conditions show the same results. Significant figures convey the uncertainty in a measurement. The digits in a measurement include all certain digits plus one uncertain digit.",
+      "clean_html": "<h2 id='1-5-measurement-uncertainty-accuracy-precision'>1.5 Measurement Uncertainty, Accuracy, and Precision</h2><div class='slo-box'><ul><li>Define accuracy and precision</li><li>Distinguish between exact and measured numbers</li><li>Use significant figures in calculations</li></ul></div><p>Counting is the only type of measurement that is free from uncertainty, provided the number of objects being counted does not change while counting and the result is less than infinity.</p><p>Accuracy refers to how closely a measurement aligns with the correct or true value. Precision refers to how closely repeated measurements under unchanged conditions show the same results.</p><p>Significant figures convey the uncertainty in a measurement. The digits in a measurement include all certain digits plus one uncertain digit.</p>",
+      "formulas": [],
+      "key_terms": [],
+      "examples": [],
+      "callouts": [],
+      "ai_answer_hub": [],
+      "faq": [],
+      "entity_extraction": {
+        "core_concepts": [
+          "Measurement Uncertainty, Accuracy, and Precision"
+        ],
+        "scientific_laws": [],
+        "historical_figures": [],
+        "units_and_standards": [],
+        "instruments_mentioned": [],
+        "cross_concept_links": []
+      },
+      "downloadable_outputs": {
+        "formula_pack": [],
+        "cheat_sheet_summary": "Summary of Measurement Uncertainty, Accuracy, and Precision.",
+        "exam_hot_spots": [],
+        "revision_notes_markdown": ""
+      },
+      "source_citations": [],
+      "quran_data": null,
+      "figures": [],
+      "tables": [],
+      "book_mcqs": [],
+      "book_short_questions": [],
+      "book_problems": [],
+      "activities": [],
+      "flashcards": [],
+      "internal_links_suggested": []
+    },
+    {
+      "_id": "top_fvxvg58br402",
+      "document_id": "doc_ehdnbmyajks4",
+      "chapter_id": "ch_rsquyvutetn3",
+      "title": "Mathematical Treatment of Measurement Results",
+      "slug": "mathematical-treatment-of-measurement-results",
+      "display_order": 6,
+      "content_blocks": [
+        {
+          "_id": "blk_iejxi5q93hfu",
+          "type": "heading",
+          "block_order": 1,
+          "source_page": 33,
+          "level": 2,
+          "text": "1.6 Mathematical Treatment of Measurement Results",
+          "slug_anchor": "1-6-mathematical-treatment-of-measurement-results",
+          "html": "<h2 id='1-6-mathematical-treatment-of-measurement-results'>1.6 Mathematical Treatment of Measurement Results</h2>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_nikfldpj50hq",
+          "type": "learning_outcomes",
+          "block_order": 31,
+          "source_page": 33,
+          "outcomes": [
+            "Explain the factor-label method",
+            "Perform calculations involving unit conversions",
+            "Calculate density from mass and volume"
+          ],
+          "html": "<div class='slo-box'><ul><li>Explain the factor-label method</li><li>Perform calculations involving unit conversions</li><li>Calculate density from mass and volume</li></ul></div>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_6lijxe2ysc7j",
+          "type": "paragraph",
+          "block_order": 32,
+          "source_page": 33,
+          "text": "Often it is necessary to convert a quantity from one unit to another. This is done using a method called dimensional analysis or the factor-label method.",
+          "contains_formula": false,
+          "key_terms_in_text": [],
+          "html": "<p>Often it is necessary to convert a quantity from one unit to another. This is done using a method called dimensional analysis or the factor-label method.</p>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_sfuanv5cswea",
+          "type": "paragraph",
+          "block_order": 33,
+          "source_page": 33,
+          "text": "Density is the ratio of mass to volume for a substance. The formula for density is: density = mass / volume.",
+          "contains_formula": false,
+          "key_terms_in_text": [],
+          "html": "<p>Density is the ratio of mass to volume for a substance. The formula for density is: density = mass / volume.</p>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_y5ilu1rzfoy5",
+          "type": "paragraph",
+          "block_order": 34,
+          "source_page": 34,
+          "text": "Unit conversions require conversion factors, which are ratios of equivalent quantities expressed in different units.",
+          "contains_formula": false,
+          "key_terms_in_text": [],
+          "html": "<p>Unit conversions require conversion factors, which are ratios of equivalent quantities expressed in different units.</p>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        }
+      ],
+      "title_vernacular": "",
+      "slug_global": "doc_ehdnbmyajks4-ch1-mathematical-treatment-of-measurement-results",
+      "url_path": "/curriculum/chemistry/grade-11/chapter-1/mathematical-treatment-of-measurement-results",
+      "section_number": "1.6",
+      "topic_type": "content",
+      "difficulty": "medium",
+      "difficulty_score": 0.5,
+      "estimated_read_time_minutes": 5,
+      "bloom_level": "understand",
+      "subject": "chemistry",
+      "grade_numeric": 11,
+      "language": "english",
+      "keywords": [
+        "mathematical-treatment-of-measurement-results"
+      ],
+      "key_terms_preview": [],
+      "source_page_start": 33,
+      "source_page_end": 34,
+      "word_count": 85,
+      "seo": {
+        "meta_title": "Mathematical Treatment of Measurement Results — Chemistry Grade 11 | Sijil",
+        "meta_description": "Learn about Mathematical Treatment of Measurement Results in Chemistry Grade 11.",
+        "canonical_url": "",
+        "focus_keyword": "mathematical treatment of measurement results",
+        "keywords": [
+          "mathematical treatment of measurement results"
+        ],
+        "breadcrumb": [
+          "Home",
+          "Chemistry",
+          "Grade 11",
+          "Chapter 1",
+          "Mathematical Treatment of Measurement Results"
+        ],
+        "json_ld_types": [
+          "TechArticle",
+          "LearningResource"
+        ]
+      },
+      "geo": {
+        "llm_summary": "This topic covers Mathematical Treatment of Measurement Results from Chapter 1 of Chemistry.",
+        "authoritative_source": "OpenStax Chemistry 2e (2019)",
+        "citation_format": "OpenStax Chemistry 2e (2019), Chapter 1, 1.6, Page 33",
+        "entity_name": "Mathematical Treatment of Measurement Results",
+        "entity_type": "EducationalTopic",
+        "trustworthiness_signals": [
+          "openstax",
+          "peer_reviewed"
+        ],
+        "source_citations": []
+      },
+      "design_meta": {
+        "primary_color_theme": "blue",
+        "icon_suggestion": "flask",
+        "layout_template": "standard",
+        "animation_complexity": "medium"
+      },
+      "raw_text": "1.6 Mathematical Treatment of Measurement Results  Often it is necessary to convert a quantity from one unit to another. This is done using a method called dimensional analysis or the factor-label method. Density is the ratio of mass to volume for a substance. The formula for density is: density = mass / volume. Unit conversions require conversion factors, which are ratios of equivalent quantities expressed in different units.",
+      "clean_html": "<h2 id='1-6-mathematical-treatment-of-measurement-results'>1.6 Mathematical Treatment of Measurement Results</h2><div class='slo-box'><ul><li>Explain the factor-label method</li><li>Perform calculations involving unit conversions</li><li>Calculate density from mass and volume</li></ul></div><p>Often it is necessary to convert a quantity from one unit to another. This is done using a method called dimensional analysis or the factor-label method.</p><p>Density is the ratio of mass to volume for a substance. The formula for density is: density = mass / volume.</p><p>Unit conversions require conversion factors, which are ratios of equivalent quantities expressed in different units.</p>",
+      "formulas": [],
+      "key_terms": [],
+      "examples": [],
+      "callouts": [],
+      "ai_answer_hub": [],
+      "faq": [],
+      "entity_extraction": {
+        "core_concepts": [
+          "Mathematical Treatment of Measurement Results"
+        ],
+        "scientific_laws": [],
+        "historical_figures": [],
+        "units_and_standards": [],
+        "instruments_mentioned": [],
+        "cross_concept_links": []
+      },
+      "downloadable_outputs": {
+        "formula_pack": [],
+        "cheat_sheet_summary": "Summary of Mathematical Treatment of Measurement Results.",
+        "exam_hot_spots": [],
+        "revision_notes_markdown": ""
+      },
+      "source_citations": [],
+      "quran_data": null,
+      "figures": [],
+      "tables": [],
+      "book_mcqs": [],
+      "book_short_questions": [],
+      "book_problems": [],
+      "activities": [],
+      "flashcards": [],
+      "internal_links_suggested": []
+    },
+    {
+      "_id": "top_ykxjbgdleeuu",
+      "document_id": "doc_ehdnbmyajks4",
+      "chapter_id": "ch_rsquyvutetn3",
+      "title": "Exercises",
+      "slug": "exercises",
+      "display_order": 999,
+      "content_blocks": [
+        {
+          "_id": "blk_3y5y9q1yxee8",
+          "type": "heading",
+          "block_order": 1,
+          "source_page": 46,
+          "level": 2,
+          "text": "Exercises",
+          "slug_anchor": "exercises",
+          "html": "<h2 id='exercises'>Exercises</h2>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        },
+        {
+          "_id": "blk_cwbq2n5micaz",
+          "type": "paragraph",
+          "block_order": 36,
+          "source_page": 46,
+          "text": "Practice problems for Chapter 1 covering all sections including chemistry in context, phases of matter, physical and chemical properties, measurements, uncertainty, accuracy, precision, and mathematical treatments.",
+          "contains_formula": false,
+          "key_terms_in_text": [],
+          "html": "<p>Practice problems for Chapter 1 covering all sections including chemistry in context, phases of matter, physical and chemical properties, measurements, uncertainty, accuracy, precision, and mathematical treatments.</p>",
+          "presentation_profile": {
+            "visual_layer_type": "standard_card",
+            "theme_overrides": {},
+            "animation_trigger": "on-scroll",
+            "tailwind_classes": ""
+          }
+        }
+      ],
+      "title_vernacular": "",
+      "slug_global": "doc_ehdnbmyajks4-ch1-exercises",
+      "url_path": "/curriculum/chemistry/grade-11/chapter-1/exercises",
+      "section_number": "",
+      "topic_type": "exercise",
+      "difficulty": "medium",
+      "difficulty_score": 0.5,
+      "estimated_read_time_minutes": 2,
+      "bloom_level": "understand",
+      "subject": "chemistry",
+      "grade_numeric": 11,
+      "language": "english",
+      "keywords": [
+        "exercises"
+      ],
+      "key_terms_preview": [],
+      "source_page_start": 46,
+      "source_page_end": 58,
+      "word_count": 44,
+      "seo": {
+        "meta_title": "Exercises — Chemistry Grade 11 | Sijil",
+        "meta_description": "Learn about Exercises in Chemistry Grade 11.",
+        "canonical_url": "",
+        "focus_keyword": "exercises",
+        "keywords": [
+          "exercises"
+        ],
+        "breadcrumb": [
+          "Home",
+          "Chemistry",
+          "Grade 11",
+          "Chapter 1",
+          "Exercises"
+        ],
+        "json_ld_types": [
+          "TechArticle",
+          "LearningResource"
+        ]
+      },
+      "geo": {
+        "llm_summary": "This topic covers Exercises from Chapter 1 of Chemistry.",
+        "authoritative_source": "OpenStax Chemistry 2e (2019)",
+        "citation_format": "OpenStax Chemistry 2e (2019), Chapter 1, Exercises, Page 46",
+        "entity_name": "Exercises",
+        "entity_type": "EducationalTopic",
+        "trustworthiness_signals": [
+          "openstax",
+          "peer_reviewed"
+        ],
+        "source_citations": []
+      },
+      "design_meta": {
+        "primary_color_theme": "blue",
+        "icon_suggestion": "flask",
+        "layout_template": "standard",
+        "animation_complexity": "medium"
+      },
+      "raw_text": "Exercises Practice problems for Chapter 1 covering all sections including chemistry in context, phases of matter, physical and chemical properties, measurements, uncertainty, accuracy, precision, and mathematical treatments.",
+      "clean_html": "<h2 id='exercises'>Exercises</h2><p>Practice problems for Chapter 1 covering all sections including chemistry in context, phases of matter, physical and chemical properties, measurements, uncertainty, accuracy, precision, and mathematical treatments.</p>",
+      "formulas": [],
+      "key_terms": [],
+      "examples": [],
+      "callouts": [],
+      "ai_answer_hub": [],
+      "faq": [],
+      "entity_extraction": {
+        "core_concepts": [
+          "Exercises"
+        ],
+        "scientific_laws": [],
+        "historical_figures": [],
+        "units_and_standards": [],
+        "instruments_mentioned": [],
+        "cross_concept_links": []
+      },
+      "downloadable_outputs": {
+        "formula_pack": [],
+        "cheat_sheet_summary": "Summary of Exercises.",
+        "exam_hot_spots": [],
+        "revision_notes_markdown": ""
+      },
+      "source_citations": [],
+      "quran_data": null,
+      "figures": [],
+      "tables": [],
+      "book_mcqs": [],
+      "book_short_questions": [],
+      "book_problems": [],
+      "activities": [],
+      "flashcards": [],
+      "internal_links_suggested": []
+    }
+  ],
+  "type_specific_data": {}
+}
